@@ -1,0 +1,3 @@
+[submodule "_jetbot_"]
+	path = _jetbot_
+	url = git@github.com:aiegoo/_jetbot_
