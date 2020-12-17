@@ -2,7 +2,7 @@
 
 > click the image below to view the youtube of my jetbot simulator I created.
 
-[![myJetBot on Gazebo](https://i9.ytimg.com/vi/BkWa0NaW0dU/mq2.jpg?sqp=CMTD7_4F&rs=AOn4CLBVN9a0gneX91n9C7VaR0qYwWKeyQ)](https://youtu.be/BkWa0NaW0dU)
+[![myJetBot on Gazebo](https://i9.ytimg.com/vi/BkWa0NaW0dU/mq1.jpg?sqp=CMTD7_4F&rs=AOn4CLB7e05SI0gM-IdoxAd1ZsTSbdKOVw)](https://youtu.be/BkWa0NaW0dU)
 
 
 <hr>
