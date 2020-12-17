@@ -6,6 +6,7 @@
 
 
 <hr>
+
 > I have used RViz to create this plugin to be used in my Gazebo simulator
 
 ![myJetBot creation](./images/myJetBot.png)
