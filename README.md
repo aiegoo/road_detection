@@ -10,3 +10,24 @@
 > I have used RViz to create this plugin to be used in my Gazebo simulator
 
 ![myJetBot creation](./images/myJetBot.png)
+
+
+### task 1 - detecting lanes
+
+> based on openCV libraries
+
+
+### task 2  - traffic sign classifier
+
+> guess probability (what is the real term for this????)
+
+### task 3 - behavioral cloning
+
+> based on neural network in simulator
+
+### task final - advanced training 
+
+> based on perspective transform
+
+
+`Future Improvement`
